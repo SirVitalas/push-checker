@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SirVitalas/push-checker/static/css/main.2bf9ce4d.chunk.css"
   },
   {
-    "revision": "fb961c1fa23e59740ad2383796d21753",
+    "revision": "b44975b95bae811e4b9c6bb214535653",
     "url": "/SirVitalas/push-checker/index.html"
   }
 ];

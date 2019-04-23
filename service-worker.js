@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SirVitalas/push-checker/precache-manifest.c61968973a2e1e401c5034bc927ecffe.js"
+  "/SirVitalas/push-checker/precache-manifest.ffa569224835fb51b2e836e6be229936.js"
 );
 
 workbox.clientsClaim();
