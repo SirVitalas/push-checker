@@ -1,13 +1,13 @@
 {
   "main.css": "/push-checker/static/css/main.2bf9ce4d.chunk.css",
-  "main.js": "/push-checker/static/js/main.8ef4cc9a.chunk.js",
-  "main.js.map": "/push-checker/static/js/main.8ef4cc9a.chunk.js.map",
+  "main.js": "/push-checker/static/js/main.75ac9c47.chunk.js",
+  "main.js.map": "/push-checker/static/js/main.75ac9c47.chunk.js.map",
   "runtime~main.js": "/push-checker/static/js/runtime~main.9512339a.js",
   "runtime~main.js.map": "/push-checker/static/js/runtime~main.9512339a.js.map",
   "static/js/2.f0d34e61.chunk.js": "/push-checker/static/js/2.f0d34e61.chunk.js",
   "static/js/2.f0d34e61.chunk.js.map": "/push-checker/static/js/2.f0d34e61.chunk.js.map",
   "index.html": "/push-checker/index.html",
-  "precache-manifest.791aafeb8f1ba85eb9d87277c27216aa.js": "/push-checker/precache-manifest.791aafeb8f1ba85eb9d87277c27216aa.js",
+  "precache-manifest.520fd255b51913d3b0252333788d28be.js": "/push-checker/precache-manifest.520fd255b51913d3b0252333788d28be.js",
   "service-worker.js": "/push-checker/service-worker.js",
   "static/css/main.2bf9ce4d.chunk.css.map": "/push-checker/static/css/main.2bf9ce4d.chunk.css.map"
 }
