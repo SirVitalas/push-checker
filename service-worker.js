@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SirVitalas/push-checker/precache-manifest.ffa569224835fb51b2e836e6be229936.js"
+  "/push-checker/precache-manifest.791aafeb8f1ba85eb9d87277c27216aa.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/SirVitalas/push-checker/index.html", {
+workbox.routing.registerNavigationRoute("/push-checker/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

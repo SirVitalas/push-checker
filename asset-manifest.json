@@ -1,13 +1,13 @@
 {
-  "main.css": "/SirVitalas/push-checker/static/css/main.2bf9ce4d.chunk.css",
-  "main.js": "/SirVitalas/push-checker/static/js/main.8ef4cc9a.chunk.js",
-  "main.js.map": "/SirVitalas/push-checker/static/js/main.8ef4cc9a.chunk.js.map",
-  "runtime~main.js": "/SirVitalas/push-checker/static/js/runtime~main.94b6ed35.js",
-  "runtime~main.js.map": "/SirVitalas/push-checker/static/js/runtime~main.94b6ed35.js.map",
-  "static/js/2.f0d34e61.chunk.js": "/SirVitalas/push-checker/static/js/2.f0d34e61.chunk.js",
-  "static/js/2.f0d34e61.chunk.js.map": "/SirVitalas/push-checker/static/js/2.f0d34e61.chunk.js.map",
-  "index.html": "/SirVitalas/push-checker/index.html",
-  "precache-manifest.ffa569224835fb51b2e836e6be229936.js": "/SirVitalas/push-checker/precache-manifest.ffa569224835fb51b2e836e6be229936.js",
-  "service-worker.js": "/SirVitalas/push-checker/service-worker.js",
-  "static/css/main.2bf9ce4d.chunk.css.map": "/SirVitalas/push-checker/static/css/main.2bf9ce4d.chunk.css.map"
+  "main.css": "/push-checker/static/css/main.2bf9ce4d.chunk.css",
+  "main.js": "/push-checker/static/js/main.8ef4cc9a.chunk.js",
+  "main.js.map": "/push-checker/static/js/main.8ef4cc9a.chunk.js.map",
+  "runtime~main.js": "/push-checker/static/js/runtime~main.9512339a.js",
+  "runtime~main.js.map": "/push-checker/static/js/runtime~main.9512339a.js.map",
+  "static/js/2.f0d34e61.chunk.js": "/push-checker/static/js/2.f0d34e61.chunk.js",
+  "static/js/2.f0d34e61.chunk.js.map": "/push-checker/static/js/2.f0d34e61.chunk.js.map",
+  "index.html": "/push-checker/index.html",
+  "precache-manifest.791aafeb8f1ba85eb9d87277c27216aa.js": "/push-checker/precache-manifest.791aafeb8f1ba85eb9d87277c27216aa.js",
+  "service-worker.js": "/push-checker/service-worker.js",
+  "static/css/main.2bf9ce4d.chunk.css.map": "/push-checker/static/css/main.2bf9ce4d.chunk.css.map"
 }
